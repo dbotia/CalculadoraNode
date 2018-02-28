@@ -22,5 +22,13 @@
   "bugs": {
     "url": "https://github.com/dbotia/CalculadoraNode/issues"
   },
-  "homepage": "https://github.com/dbotia/CalculadoraNode#readme"
+  "homepage": "https://github.com/dbotia/CalculadoraNode#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  },
+  
+  "scripts": {
+ "test": "mocha"
+ }
 }
