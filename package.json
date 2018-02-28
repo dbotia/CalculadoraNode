@@ -1,0 +1,26 @@
+{
+  "name": "calculadoranode",
+  "version": "1.0.0",
+  "description": "Calculadora",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dbotia/CalculadoraNode.git"
+  },
+  "keywords": [
+    "Calculadora",
+    "Suma",
+    "Resta",
+    "Multi",
+    "Division"
+  ],
+  "author": "Diego Botia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dbotia/CalculadoraNode/issues"
+  },
+  "homepage": "https://github.com/dbotia/CalculadoraNode#readme"
+}
